@@ -13,7 +13,7 @@ Learn courses:
 
 ##Game design.
 
-<img src="game" width="563" height="670" />
+<img src="game.png" width="563" height="670" />
 
 
 ## Running the Game
