@@ -1,4 +1,3 @@
-###Front End Web Developer Nanodegree
 ##Project: Classic Arcade Game Clone
 
 ### Project Goals
